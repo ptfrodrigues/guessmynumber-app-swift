@@ -64,5 +64,3 @@ fastlane/test_output
 GuessMyNumber/Assets.xcassets/**/*.imageset/*.png
 GuessMyNumber/Assets.xcassets/**/*.imageset/*.jpg
 
-# Documentation
-docs/ui/*.png
