@@ -24,27 +24,26 @@
 ### Welcome Screen
 Shows the initial screen of the app.
 
-<img src="docs/ui/welcome-area.png" alt="Welcome Screen" width="400"/>
+<img src="docs/ui/welcome-area.png" alt="Welcome Screen" width="250"/>
 
 ### Game Screen
 Illustrates the main area where the user enters guesses to identify the secret number.
 
-<img src="docs/ui/game-area.png" alt="Game Screen" width="400"/>
+<img src="docs/ui/game-area.png" alt="Game Screen" width="250"/>
 
 ### Settings Screen
 Displays configuration options, including difficulty levels and other preferences.
 
-<img src="docs/ui/settings-area.png" alt="Settings Screen" width="400"/>
+<img src="docs/ui/settings-area.png" alt="Settings Screen" width="250"/>
 
 ### Endgame Screen
 Presents the final outcome, whether victory or defeat, and offers the option to start a new game.
 
-<img src="docs/ui/endgame-area.png" alt="Endgame Screen" width="400"/>
+<img src="docs/ui/endgame-area.png" alt="Endgame Screen" width="250"/>
 
 
 ---
 
 ### Author
 Pedro Rodrigues
-"""
 
