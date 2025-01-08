@@ -1,0 +1,68 @@
+# Xcode
+.DS_Store
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcworkspace
+!shared.xcworkspace
+derivedData/
+.idea/
+*.xcuserstate
+
+# Swift Packages
+Packages/
+.swiftpm/
+Package.resolved
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.lock
+*.xcscmblueprint
+
+# macOS files
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archives
+*.ipa
+*.xcarchive
+
+# Provisioning profiles
+*.mobileprovision
+
+# Signing
+*.signing
+*.entitlements
+*.provisionprofile
+
+# Specific Assets
+GuessMyNumber/Assets.xcassets/**/*.imageset/*.png
+GuessMyNumber/Assets.xcassets/**/*.imageset/*.jpg
+
+# Documentation
+docs/ui/*.png
