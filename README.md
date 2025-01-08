@@ -20,21 +20,27 @@
 ---
 
 ## UI Screens
+
 ### Welcome Screen
 Shows the initial screen of the app.
-![Welcome Screen](docs/ui/welcome-area.png)
+
+<img src="docs/ui/welcome-area.png" alt="Welcome Screen" width="400"/>
 
 ### Game Screen
 Illustrates the main area where the user enters guesses to identify the secret number.
-![Game Screen](docs/ui/game-area.png)
+
+<img src="docs/ui/game-area.png" alt="Game Screen" width="400"/>
 
 ### Settings Screen
 Displays configuration options, including difficulty levels and other preferences.
-![Settings Screen](docs/ui/settings-area.png)
+
+<img src="docs/ui/settings-area.png" alt="Settings Screen" width="400"/>
 
 ### Endgame Screen
 Presents the final outcome, whether victory or defeat, and offers the option to start a new game.
-![Endgame Screen](docs/ui/endgame-area.png)
+
+<img src="docs/ui/endgame-area.png" alt="Endgame Screen" width="400"/>
+
 
 ---
 
